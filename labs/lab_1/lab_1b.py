@@ -45,7 +45,7 @@ def requested_sanitized_number(prompt: str) -> float:
         float: The sanitized numeric input by the user.
         """
     
-    while True: 
+ while True: 
         
         try:
 
